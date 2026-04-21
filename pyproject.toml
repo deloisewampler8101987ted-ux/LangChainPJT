@@ -1,0 +1,13 @@
+[project]
+name = "langchainpjt"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "console>=0.9912",
+    "openai>=2.32.0",
+    "panel>=1.8.10",
+    "pip>=26.0.1",
+    "rich>=15.0.0",
+]
